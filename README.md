@@ -4,7 +4,7 @@ A simple command-line calculator built in Python using `argparse`.
 
 ## HOW TO USE: 
 
-### Show Help
+Navigate to the directory containing the file, then run this to see help or the available arguments:
 ```bash
 python calc.py -h
 ```
